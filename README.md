@@ -6,6 +6,7 @@ Hi! Below is my personal readme that acts as a guide to how I work and how I ten
 - Help in any way to achieve our team's goal(s)
 - Spread knowledge amongst the team
 - Helping others in any way to make their lives / work easier.
+- Cleanup our Rails codebase
 
 ## Things you should know about me
 I have a puppy with a lot of energy so you may hear/see her in the background of video calls every now and then, but I generally take her out for exercise before 9, after lunch around 12, and at 5 and am usually out for a bit around those times for walks (sometimes I'll hop up during a call to get her away from something but I always have my earbuds on so I can still hear/speak)
